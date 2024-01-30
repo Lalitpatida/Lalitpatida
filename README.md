@@ -18,9 +18,6 @@
 
 <p align="left"> <a href="https://twitter.com/lalitpa14085242" target="blank"><img src="https://img.shields.io/twitter/follow/lalitpa14085242?logo=twitter&style=for-the-badge" alt="lalitpa14085242" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
-
-- 📫 How to reach me **lalitptdr5799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
