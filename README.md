@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 - 🔭 I’m currently working as a **Data Scientist at Tyloones Software Pvt. Ltd**
-- 🌱 I’m currently learning and building projects in **Machine Learning, Deep Learning, and LLMs (OpenAI)**
+- 🌱 I’m currently learning and building projects in **Machine Learning, Deep Learning, and LLMs**
 - 💬 Ask me about **Python, PyTorch, scikit-learn, NumPy, Pandas, Computer Vision, APIs**
 - 📫 How to reach me: **lalitptdr5799@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems with data.
